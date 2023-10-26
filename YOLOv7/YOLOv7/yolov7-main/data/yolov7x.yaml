@@ -1,0 +1,8 @@
+train: D:\Yolov7\yolov7-main\datasets\defect\train.txt
+val:  D:\Yolov7\yolov7-main\datasets\defect\val.txt
+test: D:\Yolov7\yolov7-main\datasets\defect\test.txt
+
+nc: 3
+depth_multiple: 1.0
+width_multiple: 1.0
+names: ['ye','0','1']

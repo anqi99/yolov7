@@ -1,0 +1,9 @@
+train: datasets/defect/train.txt
+val:   datasets/defect/val.txt
+test:  datasets/defect/test.txt
+
+nc: 4
+depth_multiple: 1.0
+width_multiple: 1.0
+names: ['yanmeibing','tanjubing','lunbanbing', 'yekubing']
+
